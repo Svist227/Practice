@@ -129,6 +129,25 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="task1.cpp" />
+    <ClCompile Include="task100.cpp" />
+    <ClCompile Include="task101.cpp" />
+    <ClCompile Include="task11.cpp" />
+    <ClCompile Include="task12.cpp" />
+    <ClCompile Include="task2.cpp" />
+    <ClCompile Include="task3.cpp" />
+    <ClCompile Include="task4.cpp" />
+    <ClCompile Include="task5.cpp" />
+    <ClCompile Include="task70.cpp" />
+    <ClCompile Include="task71.cpp" />
+    <ClCompile Include="task72.cpp" />
+    <ClCompile Include="task8.cpp" />
+    <ClCompile Include="task9.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tournament.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

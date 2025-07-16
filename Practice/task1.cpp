@@ -1,8 +1,15 @@
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
 
-int main()
+int main2()
 {
     int A = 11, B = 6;
 
